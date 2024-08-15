@@ -10,7 +10,8 @@
   </p>
 </div>
 
-This tool was designed to *automate* the process of increasing the view count on your GitHub profile (assuming you use [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)). It uses proxies to make requests to the *GitHub Camo CDN*, simulating real users visiting your home page.
+This tool was designed to *automate* the process of increasing the view count on your GitHub profile (assuming you use [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)). It uses proxies to make requests to the *GitHub Camo CDN*, simulating real users visiting your home page.  
+(this is very buggy, please commit fixes im 2 lazy)
 
 ## Installation 🛠️
 
